@@ -1,0 +1,2 @@
+# JaM_Invoice_EN
+This project on Java was commissioned by the State Unitary Enterprise "State Pharmacies of the Republic of Komi". The project was completed in January 2019. Used Java 8, JavaFX, JasperReports.  Solved problem: Listing liners for boxes when sending drugs to the pharmacy network. The data were loaded from the database, processed in the program and a printed form was created in the DBF format.
